@@ -13,3 +13,7 @@ Thumbs.db
 # Pinpoint Specific
 secrets/
 .env
+
+# Dependencies
+node_modules/
+
